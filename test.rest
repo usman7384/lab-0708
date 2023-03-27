@@ -1,0 +1,28 @@
+GET  http://localhost:3000/api/users
+Content-Type: application/json
+Authorization: bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6Im5ld1VzZXIiLCJpZCI6IjY0MjFiMjk4N2I3NzA4N2QwMDA2NzYwMiIsImlhdCI6MTY3OTkzMDMxNn0.Jl3rXsZdMqYMdqjpcAAHNOb1YrHTUslpg5QgfrLl8jE
+# {
+# "title": "NEWBLOGTEST121",
+# "author": "USER",
+# "url": "USERASSOSIAATIOTEST10",
+# "likes": 34
+# }
+
+# {
+#     "title": "NewArticleFinal",
+#     "author": "NewAuthor",
+#     "body": "NewBody",
+#     "tags": ["new", "article"],
+#     "published": true
+# }
+
+# {
+#     "username":"newUser",
+#     "name":"testuser",
+#     "password": "newuser"
+# }
+
+# {
+#     "username":"newUser",
+#     "password": "newuser"
+# }
